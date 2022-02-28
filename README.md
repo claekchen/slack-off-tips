@@ -33,4 +33,6 @@ moyu mark 2021-12-25 圣诞节`
 
 ## Special Thanks
 
-项目fork至https://github.com/Runtu4378/slack-off-tips，我只是加了一层阿里云部署而已
+项目fork至https://github.com/Runtu4378/slack-off-tips
+
+我只是加了一层阿里云部署而已
