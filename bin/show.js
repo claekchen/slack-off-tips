@@ -251,6 +251,7 @@ ${state}好，摸鱼人，工作再累，一定不要忘记摸鱼哦！
   }
 
   console.log(chalk.green(text));
+  return text;
 }
 
 module.exports = {

@@ -1,6 +1,6 @@
-# slack-off-tips
+# slack-off-tips-aliyun
 
-摸鱼办公室文案生成器
+摸鱼办公室文案生成器-企业微信机器人-阿里云函数计算部署
 
 ## 示例
 
@@ -15,7 +15,7 @@
 距离春节假期还有140天
 ```
 
-## 指令
+## 本地指令
 
 ```bash
 # 安装
@@ -26,3 +26,11 @@ moyu show
 # 增加自定义节日锚点
 moyu mark 2021-12-25 圣诞节`
 ```
+
+## 阿里云部署企业微信机器人
+
+将`index.js`里的hook地址修改为自己的，将所有文件打包上传至阿里云函数计算即可
+
+## Special Thanks
+
+项目fork至https://github.com/Runtu4378/slack-off-tips，我只是加了一层阿里云部署而已
